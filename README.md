@@ -1,6 +1,6 @@
 <!-- Banner / Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=20C20E&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi%2C+I'm+Sandesh+Subedi+%F0%9F%91%8B;I+write+bugs+and+call+them+features" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=20C20E&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi%2C+I'm+Sandesh+Subedi+%F0%9F%91%8B;Future+CEO+of+npm+install+global" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,10 +16,7 @@
 
 <div align="center">
 
-  <!-- Badges -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Sandesh225&icon=2&color=6" alt="Profile views" />
-  </a>
+  
   &nbsp;
   <img src="https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=windows&logoColor=white" />
   &nbsp;
@@ -27,19 +24,6 @@
 
 </div>
 
----
-
-## 🧠 About Me
-
-- 🧑‍💻 Full-stack developer mixing **Next.js, TypeScript, Supabase, Postgres** and a bit of chaos  
-- 📊 Heading toward **IT + Business Analytics villain arc** (data + dev = trouble)  
-- 🏙️ Obsessed with **smart city** ideas, dashboards, and over-engineered systems  
-- 💥 I refactor code no one asked me to touch  
-- 😈 Coding style: **clean UI, messy git history**
-
----
-
-## 😈 Tech Arsenal
 
 <div align="center">
 
