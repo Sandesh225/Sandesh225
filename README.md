@@ -1,59 +1,80 @@
-# <div align="center">👋 Welcome to My Digital Playground</div>
+# <div align="center">👋 Hey There! I'm Sandesh Subedi</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Breaking+Things+Since+Day+One+%F0%9F%94%A5;Debugging+Is+My+Superpower+%F0%9F%A6%B8;Powered+by+Coffee+%26+Chaos+%E2%98%95)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Commit+At+A+Time+%E2%9C%A8;Passionate+Problem+Solver+%F0%9F%94%A5;Creating+Impact+Through+Code+%F0%9F%8C%9F)
 
 </div>
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=f39c12&labelColor=2c3e50)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=f39c12&label=PROFILE+VISITORS)](https://github.com/YOUR_USERNAME)
-[![Years Badge](https://badges.pufler.dev/years/YOUR_USERNAME?style=for-the-badge&color=f39c12&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Sandesh225?style=for-the-badge&logo=github&logoColor=white&color=f39c12&labelColor=2c3e50)](https://github.com/Sandesh225)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sandesh225&style=for-the-badge&color=f39c12&label=PROFILE+VISITORS)](https://github.com/Sandesh225)
+[![Years Badge](https://badges.pufler.dev/years/Sandesh225?style=for-the-badge&color=f39c12&logo=github&logoColor=white)](https://github.com/Sandesh225)
 
 </div>
 
 ---
 
-## 🎯 `const aboutMe = {`
-
-```javascript
-name: "Your Name",
-title: "Full-Stack Developer",
-location: "Planet Earth 🌍",
-motto: "I break things in the frontend AND the backend",
-currentlyWorking: "Creating bugs... I mean features 🐛",
-funFact: "My code works 60% of the time, every time",
-coffee: "☕".repeat(Infinity),
-```
+## 🌟 About Me - The Journey of a Passionate Developer
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 What I'm Up To
+```javascript
+const sandesh = {
+    name: "Sandesh Subedi",
+    title: "Full-Stack Developer & Tech Enthusiast",
+    location: "Nepal 🇳🇵 | Building Global Solutions 🌍",
+    mission: "Crafting elegant code that makes a difference",
+    passion: "Solving problems, learning constantly, growing daily",
+    believes: "Every line of code is an opportunity to create something amazing",
+    currentFocus: "Building scalable applications & exploring AI/ML",
+    lifePhilosophy: "Code with purpose, learn with passion, share with generosity",
+    superpower: "Turning coffee into functional, beautiful applications ☕✨"
+};
+```
 
-- 🔨 Building stuff that *probably* works
-- 🎯 Turning coffee into code since [YEAR]
-- 🌱 Learning by breaking things (professionally)
-- 💡 Ideas > Sleep (questionable life choice)
-- 🎮 Gaming when the code compiles
+### 🎯 What Drives Me
 
-### ⚡ Quick Facts
+> *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
 
-> "Full-stack dev" is just fancy for saying I break things in the frontend and the backend.
+I'm a **passionate full-stack developer** who believes technology can change the world. Every project I work on is an opportunity to learn something new, push boundaries, and create solutions that matter. I'm not just writing code—I'm building experiences, solving real problems, and constantly evolving.
 
-- 💻 I speak fluent Stack Overflow
-- 🐛 Bug creator & destroyer
-- 🎨 CSS is a nightmare I've learned to love
-- ☁️ Cloud enthusiast (my head's always in the clouds)
+### 💫 My Development Philosophy
+
+- 🚀 **Innovation First**: Always exploring cutting-edge technologies
+- 🎨 **User-Centric Design**: Beautiful UIs that users love
+- 🧩 **Clean Code**: Maintainable, scalable, and elegant solutions
+- 🤝 **Collaboration**: Open source contributor and team player
+- 📚 **Lifelong Learner**: Every day is a chance to grow
+- 💪 **Resilience**: Challenges are opportunities in disguise
+- ✨ **Impact-Driven**: Building tech that makes people's lives better
+
+### 🌈 Current Adventures
+
+- 🔭 Building **innovative full-stack applications**
+- 🌱 Mastering **cloud architecture** and **microservices**
+- 👯 Looking to collaborate on **open-source projects**
+- 💡 Exploring **AI/ML integration** in web applications
+- 🎓 Sharing knowledge through **tech blogs** and **mentoring**
+- 🎯 Contributing to the **developer community**
+
+### ⚡ Fun Facts About Me
+
+- 💻 I code with purpose and debug with patience
+- 🎮 Gaming is my creative recharge
+- 📖 Always reading about the latest tech trends
+- 🌄 Nature lover & adventure seeker
+- 🎵 Code better with good music
+- ☕ Coffee is my coding fuel
 
 ---
 
-## 🧰 My Arsenal of Mass Production
+## 🛠️ My Tech Arsenal - Tools I Love & Master
 
 <div align="center">
 
-### 🧩 Languages That Make Me Cry (In a Good Way)
+### 🧩 Languages That Power My Creativity
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,9 +82,10 @@ coffee: "☕".repeat(Infinity),
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & APIs (Where the Magic Happens)
+### ⚙️ Backend & APIs - Building Robust Systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -71,8 +93,9 @@ coffee: "☕".repeat(Infinity),
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### 🎨 Frontend & Apps (Breaking UIs Since Day One)
+### 🎨 Frontend & Mobile - Crafting Beautiful Experiences
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -80,8 +103,9 @@ coffee: "☕".repeat(Infinity),
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🗄️ Databases & Auth (Data Wrangling)
+### 🗄️ Databases & Storage - Managing Data Like a Pro
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,7 +114,7 @@ coffee: "☕".repeat(Infinity),
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ☁️ DevOps & Cloud (Because Production Matters)
+### ☁️ DevOps & Cloud - Deploying at Scale
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -98,51 +122,60 @@ coffee: "☕".repeat(Infinity),
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 The Damage Report
+## 📊 GitHub Journey - My Coding Story in Numbers
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0d1117&title_color=f39c12&text_color=58d68d&icon_color=3498db&border_color=f39c12&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=0d1117&ring=f39c12&fire=f39c12&currStreakLabel=3498db&border=f39c12&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandesh225&show_icons=true&theme=radical&bg_color=0d1117&title_color=f39c12&text_color=58d68d&icon_color=3498db&border_color=f39c12&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh225&theme=radical&background=0d1117&ring=f39c12&fire=f39c12&currStreakLabel=3498db&border=f39c12&hide_border=false" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=f39c12&text_color=58d68d&border_color=f39c12&hide_border=false&langs_count=10" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh225&layout=compact&theme=radical&bg_color=0d1117&title_color=f39c12&text_color=58d68d&border_color=f39c12&hide_border=false&langs_count=10" />
 
 </div>
 
-### 🔥 Contribution Graph (Proof I Actually Code)
+### 🔥 Contribution Graph - Consistency is Key
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58d68d&line=f39c12&point=3498db&area=true&hide_border=false)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandesh225&bg_color=0d1117&color=58d68d&line=f39c12&point=3498db&area=true&hide_border=false)](https://github.com/Sandesh225)
 
 </div>
 
 ---
 
-## 🏆 Loot & Achievements
+## 🏆 Achievements & Milestones - Celebrating Progress
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&row=2&column=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sandesh225&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues&row=2&column=4)
 
 </div>
 
-### 🎖️ Special Badges
+### 🎯 GitHub Profile Summary
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandesh225&theme=radical)
 
 </div>
 
 ---
 
-## 🎭 Random Developer Quote
+## 💭 Daily Inspiration - Words That Fuel My Journey
 
 <div align="center">
 
@@ -152,39 +185,53 @@ coffee: "☕".repeat(Infinity),
 
 <div align="center">
   
-### 💭 My Current Vibe
+### ✨ My Developer Mantras
 
-*"It works on my machine" - Famous last words*
+> *"The only way to do great work is to love what you do."* - Steve Jobs
+
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+> *"First, solve the problem. Then, write the code."* - John Johnson
+
+> *"Optimism is an occupational hazard of programming: feedback is the treatment."* - Kent Beck
 
 </div>
 
 ---
 
-## 🎮 Bonus Content: Fun Stuff
+## 🎮 More About My Journey
 
 <details>
-<summary>📈 <b>Even MORE Stats</b> (Click if you dare)</summary>
+<summary>📈 <b>Extra Stats & Insights</b> (Click to explore more)</summary>
 
 <br>
 
 <div align="center">
 
-### 🕐 Productive Time of Day
+### 🎯 2025 Goals & Aspirations
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- ✅ Contribute to major open-source projects
+- ✅ Build and launch 3 production-ready SaaS applications
+- ✅ Master advanced system design patterns
+- ✅ Mentor aspiring developers
+- ✅ Write technical blogs and tutorials
+- ✅ Speak at tech conferences
+- ✅ Expand cloud architecture expertise
+- ✅ Make meaningful impact through code
 
-### 🎯 Current Goals
-
-- [ ] Achieve 100% code coverage (currently at "it compiles" %)
-- [ ] Stop using console.log for debugging (who am I kidding)
-- [ ] Learn that one new framework everyone's talking about
-- [ ] Actually read documentation before Stack Overflow
-- [ ] Sleep (eventually)
-
-### 🎲 Random Dev Joke
+### 🎲 Random Dev Wisdom
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=f39c12" alt="Jokes Card" />
+
+### 📚 Learning Journey
+
+```javascript
+const myLearningPath = {
+    2024: ["Advanced System Design", "Kubernetes", "AI/ML Basics"],
+    2025: ["Cloud Architecture", "DevOps Mastery", "Blockchain"],
+    forever: ["Growth Mindset", "Problem Solving", "Innovation"]
+};
+```
 
 </div>
 
@@ -192,15 +239,25 @@ coffee: "☕".repeat(Infinity),
 
 ---
 
-## 🤝 Let's Connect & Create Chaos Together
+## 🤝 Let's Connect & Build Something Amazing Together
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+### 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandesh-subedi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandesh_subedi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sandeshsubedi.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandesh.subedi@example.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sandesh225)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandesh225)
+
+### 💬 Let's Talk About
+
+```
+💡 Innovative Project Ideas  |  🚀 Tech Collaborations  |  🌟 Open Source
+📚 Learning Together  |  🎯 Career Growth  |  ☕ Coffee & Code
+```
 
 </div>
 
@@ -208,79 +265,119 @@ coffee: "☕".repeat(Infinity),
 
 <div align="center">
 
-### 💼 Open for Opportunities
+### 🐍 Watch My Contribution Snake Devour My Commits
 
-🚀 **Available for:** Freelance | Full-time | Collaboration | Coffee Chats ☕
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Watch My Contribution Snake Eat My Commits
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Sandesh225/Sandesh225/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💖 Support My Caffeine Addiction
-
-If my code helped you (or made you laugh), consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Jamming To
-
-[![Spotify](https://novatorem-YOUR_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
----
+## 🌟 Philosophy & Principles
 
 <div align="center">
 
 ```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
+class DeveloperLifestyle {
+    constructor() {
+        this.mindset = "Growth-oriented";
+        this.approach = "Problem-solver first, coder second";
+        this.values = ["Quality", "Innovation", "Collaboration", "Continuous Learning"];
+    }
+    
+    dailyRoutine() {
+        while (passionate) {
+            learn();
+            code();
+            create();
+            share();
+            inspire();
+            repeat();
+        }
+    }
+    
+    lifeGoal() {
+        return "Build technology that makes a positive impact on people's lives";
+    }
 }
+
+const sandesh = new DeveloperLifestyle();
+sandesh.dailyRoutine(); // Running since day one 🚀
 ```
-
-### ⭐ From [Sandesh Subedi](https://github.com/Sandesg225) with 💛
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling)
-
-**End of file. No bugs here, just undocumented features.** 🚀
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 💖 Support My Journey
+
+If you find my work valuable or inspiring, consider:
+
+- ⭐ Starring my repositories
+- 🤝 Collaborating on projects
+- 📢 Sharing my work with others
+- ☕ Buying me a coffee to fuel more code
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sandesh225)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sandesh225)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📝 Latest From My Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*Coming soon: Tech tutorials, project insights, and developer tips!*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-sandesh225.vercel.app/api/spotify)](https://open.spotify.com/user/sandesh225)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌈 Thank You for Visiting!
+
+### *"Dream big, code bigger, impact biggest."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### ⭐ From [Sandesh Subedi](https://github.com/Sandesh225) with 💛
+
+**Made with ❤️, ☕, and countless lines of code**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Keep%20Coding,%20Keep%20Growing!&fontSize=25&fontColor=fff&animation=twinkling)
+
+```javascript
+// End of README.md
+// But the journey never ends... 🚀✨
+console.log("Thanks for stopping by! Let's build the future together 🌟");
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**🌟 "Every expert was once a beginner. Every master was once a disaster. Keep going!" 🌟**
+
+![Visitor Count](https://profile-counter.glitch.me/Sandesh225/count.svg)
+
 </div>
