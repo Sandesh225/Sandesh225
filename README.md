@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Commit+At+A+Time+%E2%9C%A8;Passionate+Problem+Solver+%F0%9F%94%A5;Creating+Impact+Through+Code+%F0%9F%8C%9F)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Commit+At+A+Time+%E2%9C%A8;Passionate+Problem+Solver+%F0%9F%94%A5;Creating+Impact+Through+Code+%F0%9F%8C%9F)
 
 </div>
 
@@ -48,15 +48,6 @@ I'm a **passionate full-stack developer** who believes technology can change the
 - 📚 **Lifelong Learner**: Every day is a chance to grow
 - 💪 **Resilience**: Challenges are opportunities in disguise
 - ✨ **Impact-Driven**: Building tech that makes people's lives better
-
-### 🌈 Current Adventures
-
-- 🔭 Building **innovative full-stack applications**
-- 🌱 Mastering **cloud architecture** and **microservices**
-- 👯 Looking to collaborate on **open-source projects**
-- 💡 Exploring **AI/ML integration** in web applications
-- 🎓 Sharing knowledge through **tech blogs** and **mentoring**
-- 🎯 Contributing to the **developer community**
 
 ### ⚡ Fun Facts About Me
 
@@ -133,29 +124,6 @@ I'm a **passionate full-stack developer** who believes technology can change the
 
 </div>
 
----
-
-## 📊 GitHub Journey - My Coding Story in Numbers
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandesh225&show_icons=true&theme=radical&bg_color=0d1117&title_color=f39c12&text_color=58d68d&icon_color=3498db&border_color=f39c12&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh225&theme=radical&background=0d1117&ring=f39c12&fire=f39c12&currStreakLabel=3498db&border=f39c12&hide_border=false" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh225&layout=compact&theme=radical&bg_color=0d1117&title_color=f39c12&text_color=58d68d&border_color=f39c12&hide_border=false&langs_count=10" />
-
-</div>
-
-### 🔥 Contribution Graph - Consistency is Key
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandesh225&bg_color=0d1117&color=58d68d&line=f39c12&point=3498db&area=true&hide_border=false)](https://github.com/Sandesh225)
-
-</div>
-
----
-
 ## 🏆 Achievements & Milestones - Celebrating Progress
 
 <div align="center">
@@ -188,39 +156,11 @@ I'm a **passionate full-stack developer** who believes technology can change the
 
 ---
 
-## 🎮 More About My Journey
-
-<details>
-<summary>📈 <b>Extra Stats & Insights</b> (Click to explore more)</summary>
-
-<br>
-
-<div align="center">
-
-### 🎯 2025 Goals & Aspirations
-
-- ✅ Contribute to major open-source projects
-- ✅ Build and launch 3 production-ready SaaS applications
-- ✅ Master advanced system design patterns
-- ✅ Mentor aspiring developers
-- ✅ Write technical blogs and tutorials
-- ✅ Speak at tech conferences
-- ✅ Expand cloud architecture expertise
-- ✅ Make meaningful impact through code
 
 ### 🎲 Random Dev Wisdom
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=f39c12" alt="Jokes Card" />
 
-### 📚 Learning Journey
-
-```javascript
-const myLearningPath = {
-    2024: ["Advanced System Design", "Kubernetes", "AI/ML Basics"],
-    2025: ["Cloud Architecture", "DevOps Mastery", "Blockchain"],
-    forever: ["Growth Mindset", "Problem Solving", "Innovation"]
-};
-```
 
 </div>
 
@@ -228,35 +168,12 @@ const myLearningPath = {
 
 ---
 
-## 🤝 Let's Connect & Build Something Amazing Together
-
-<div align="center">
-
-### 🌐 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandesh-subedi)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandesh_subedi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sandeshsubedi.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandesh.subedi@example.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sandesh225)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandesh225)
-
 ### 💬 Let's Talk About
 
 ```
 💡 Innovative Project Ideas  |  🚀 Tech Collaborations  |  🌟 Open Source
 📚 Learning Together  |  🎯 Career Growth  |  ☕ Coffee & Code
 ```
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Watch My Contribution Snake Devour My Commits
-
-![Snake animation](https://raw.githubusercontent.com/Sandesh225/Sandesh225/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -309,32 +226,6 @@ If you find my work valuable or inspiring, consider:
 - 📢 Sharing my work with others
 - ☕ Buying me a coffee to fuel more code
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sandesh225)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sandesh225)
-
-</div>
-
----
-
-<div align="center">
-
-### 📝 Latest From My Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*Coming soon: Tech tutorials, project insights, and developer tips!*
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-sandesh225.vercel.app/api/spotify)](https://open.spotify.com/user/sandesh225)
-
 </div>
 
 ---
@@ -366,7 +257,5 @@ console.log("Thanks for stopping by! Let's build the future together 🌟");
 <div align="center">
 
 **🌟 "Every expert was once a beginner. Every master was once a disaster. Keep going!" 🌟**
-
-![Visitor Count](https://profile-counter.glitch.me/Sandesh225/count.svg)
 
 </div>
